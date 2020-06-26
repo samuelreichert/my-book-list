@@ -17,6 +17,10 @@
   </h3>
 </div>
 
+<div align="center">
+  <img src="https://github.com/samuelreichert/my-book-list/raw/master/screenshots/MyBookList_App.png" alt="Screenshot from My Book List screen" width="750" />
+</div>
+
 ### Tech Stack
 * HTML5
 * Javascript
