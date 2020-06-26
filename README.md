@@ -2,11 +2,20 @@
   <h1>📚 My Book List</h1>
 </div>
 
-Awesome app made without any JS framework.
-<br />
-From: https://youtu.be/JaMCxVWtW58
+<div align="center">
+  Awesome app made without any JS framework.
+</div>
+<div align="center">
+  From: https://youtu.be/JaMCxVWtW58
+</div>
 
-[Demo](https://samuelreichert.github.io/my-book-list.html)
+<div align="center">
+  <h3>
+    <a href="https://samuelreichert.github.io/my-book-list.html">
+      Demo
+    </a>
+  </h3>
+</div>
 
 ### Tech Stack
 * HTML5
